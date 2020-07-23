@@ -1,5 +1,5 @@
 # Android SharedPreferences
-
+ نمونه برنامه برای sharedprefernces
 `MyPreference` class:
 ```java
 public class MyPreferences {
